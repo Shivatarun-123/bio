@@ -1,108 +1,11 @@
 {
-  "items":
-[
-{"aadhar":"805306527252","dept":"Chemistry","bas":"Y"}
-,{"aadhar":"628965771035","dept":"Chemistry","bas":"N"}
-,{"aadhar":"455397007252","dept":"Chemistry","bas":"Y"}
-,{"aadhar":"789512927416","dept":"Chemistry","bas":"Y"}
-,{"aadhar":"787548188020","dept":"Civil Engineering","bas":"N"}
-,{"aadhar":"858174246575","dept":"Civil Engineering","bas":"Y"}
-,{"aadhar":"762032231375","dept":"Civil Engineering","bas":"N"}
-,{"aadhar":"843291213584","dept":"Civil Engineering","bas":"N"}
-,{"aadhar":"449094055187","dept":"Civil Engineering","bas":"N"}
-,{"aadhar":"481774450092","dept":"CSE","bas":"N"}
-,{"aadhar":"911977040220","dept":"CSE","bas":"Y"}
-,{"aadhar":"708597442149","dept":"CSE","bas":"Y"}
-,{"aadhar":"796851896847","dept":"CSE","bas":"Y"}
-,{"aadhar":"391015745560","dept":"CSE","bas":"Y"}
-,{"aadhar":"939509504344","dept":"CSE","bas":"N"}
-,{"aadhar":"837662927610","dept":"CSE","bas":"Y"}
-,{"aadhar":"833442515075","dept":"CSE","bas":"Y"}
-,{"aadhar":"222494872432","dept":"CSE","bas":"Y"}
-,{"aadhar":"629799538774","dept":"CSE","bas":"N"}
-,{"aadhar":"811037003905","dept":"ECE","bas":"Y"}
-,{"aadhar":"826897622924","dept":"ECE","bas":"N"}
-,{"aadhar":"544929132779","dept":"ECE","bas":"N"}
-,{"aadhar":"729453207148","dept":"ECE","bas":"N"}
-,{"aadhar":"536333148564","dept":"ECE","bas":"Y"}
-,{"aadhar":"314145883189","dept":"ECE","bas":"Y"}
-,{"aadhar":"332422315578","dept":"ECE","bas":"Y"}
-,{"aadhar":"745904564576","dept":"ECE","bas":"N"}
-,{"aadhar":"309821721996","dept":"ECE","bas":"N"}
-,{"aadhar":"359116671628","dept":"EEE","bas":"N"}
-,{"aadhar":"866541975281","dept":"EEE","bas":"Y"}
-,{"aadhar":"726943614672","dept":"EEE","bas":"Y"}
-,{"aadhar":"826818319604","dept":"EEE","bas":"Y"}
-,{"aadhar":"922785193670","dept":"EEE","bas":"N"}
-,{"aadhar":"503569792617","dept":"EEE","bas":"Y"}
-,{"aadhar":"381275635631","dept":"EEE","bas":"Y"}
-,{"aadhar":"714764838152","dept":"English","bas":"Y"}
-,{"aadhar":"226818823636","dept":"English","bas":"N"}
-,{"aadhar":"218509989732","dept":"English","bas":"Y"}
-,{"aadhar":"221549646069","dept":"English","bas":"Y"}
-,{"aadhar":"769963250947","dept":"English","bas":"Y"}
-,{"aadhar":"329869886149","dept":"English","bas":"N"}
-,{"aadhar":"850413132059","dept":"English","bas":"Y"}
-,{"aadhar":"618247735770","dept":"English","bas":"Y"}
-,{"aadhar":"427588922233","dept":"IT","bas":"N"}
-,{"aadhar":"932259768365","dept":"IT","bas":"Y"}
-,{"aadhar":"296895268005","dept":"IT","bas":"Y"}
-,{"aadhar":"621087355642","dept":"IT","bas":"Y"}
-,{"aadhar":"608540544690","dept":"IT","bas":"N"}
-,{"aadhar":"525438367173","dept":"IT","bas":"N"}
-,{"aadhar":"234337426504","dept":"IT","bas":"Y"}
-,{"aadhar":"545971697712","dept":"IT","bas":"Y"}
-,{"aadhar":"240875847125","dept":"IT","bas":"Y"}
-,{"aadhar":"360119924235","dept":"Mathematics","bas":"Y"}
-,{"aadhar":"923241071523","dept":"Mathematics","bas":"N"}
-,{"aadhar":"800432907798","dept":"Mathematics","bas":"Y"}
-,{"aadhar":"700059781031","dept":"Mathematics","bas":"Y"}
-,{"aadhar":"360119924235","dept":"Mathematics","bas":"Y"}
-,{"aadhar":"838575463951","dept":"Mathematics","bas":"Y"}
-,{"aadhar":"292763774031","dept":"MBA","bas":"Y"}
-,{"aadhar":"811427017852","dept":"MBA","bas":"N"}
-,{"aadhar":"328263583193","dept":"MBA","bas":"N"}
-,{"aadhar":"733915231074","dept":"MBA","bas":"Y"}
-,{"aadhar":"448042274124","dept":"MBA","bas":"Y"}
-,{"aadhar":"708917908059","dept":"MBA","bas":"N"}
-,{"aadhar":"881727393858","dept":"MBA","bas":"Y"}
-,{"aadhar":"679830736381","dept":"Mechanical","bas":"Y"}
-,{"aadhar":"696730077184","dept":"Mechanical","bas":"Y"}
-,{"aadhar":"305227276001","dept":"Mechanical","bas":"N"}
-,{"aadhar":"738013377625","dept":"Mechanical","bas":"Y"}
-,{"aadhar":"932142372773","dept":"Mechanical","bas":"Y"}
-,{"aadhar":"345980043149","dept":"Mechanical","bas":"Y"}
-,{"aadhar":"973019999649","dept":"Mechanical","bas":"N"}
-,{"aadhar":"484817468660","dept":"Mechanical","bas":"Y"}
-,{"aadhar":"623222946902","dept":"Others(CIVIL\/MECH","bas":"Y"}
-,{"aadhar":"769563592549","dept":"Others(CIVIL\/MECH","bas":"N"}
-,{"aadhar":"940347588555","dept":"Others(CIVIL\/MECH","bas":"Y"}
-,{"aadhar":"454945398667","dept":"Others(CIVIL\/MECH","bas":"N"}
-,{"aadhar":"803182540697","dept":"Others(CIVIL\/MECH","bas":"Y"}
-,{"aadhar":"408888210530","dept":"Others(CIVIL\/MECH","bas":"N"}
-,{"aadhar":"376174305826","dept":"Others(CSE\/IT)","bas":"N"}
-,{"aadhar":"748175646491","dept":"Others(CSE\/IT)","bas":"N"}
-,{"aadhar":"612619054985","dept":"Others(CSE\/IT)","bas":"N"}
-,{"aadhar":"886849541909","dept":"Others(CSE\/IT)","bas":"Y"}
-,{"aadhar":"710881973707","dept":"Others(ECE\/EEE)","bas":"N"}
-,{"aadhar":"627005763364","dept":"Chemistry","bas":"N"}
-,{"aadhar":"796790392339","dept":"Chemistry","bas":"Y"}
-,{"aadhar":"506181552802","dept":"Others(ECE\/EEE)","bas":"N"}
-,{"aadhar":"680113069169","dept":"Others(MNGT\/H&S)","bas":"Y"}
-,{"aadhar":"910849770097","dept":"Others(MNGT\/H&S)","bas":"N"}
-,{"aadhar":"980910679756","dept":"Others(MNGT\/H&S)","bas":"Y"}
-,{"aadhar":"909068477037","dept":"Others(MNGT\/H&S)","bas":"Y"}
-,{"aadhar":"412269112395","dept":"Others(MNGT\/H&S)","bas":"Y"}
-,{"aadhar":"562224786808","dept":"Others(MNGT\/H&S)","bas":"N"}
-,{"aadhar":"738965726275","dept":"Others(MNGT\/H&S)","bas":"N"}
-,{"aadhar":"384755970241","dept":"Physics","bas":"Y"}
-,{"aadhar":"926557362675","dept":"Physics","bas":"Y"}
-,{"aadhar":"405746399375","dept":"Physics","bas":"Y"}
-,{"aadhar":"229349233510","dept":"Physics","bas":"Y"}
-,{"aadhar":"308596828493","dept":"Physics","bas":"Y"}
-,{"aadhar":"417194857133","dept":"Physics","bas":"Y"}
-,{"aadhar":"864427553027","dept":"Physics","bas":"N"}
-,{"aadhar":"781874099641","dept":"Physics","bas":"Y"}
-,{"aadhar":"949450800956","dept":"Physics","bas":"Y"}
-]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
