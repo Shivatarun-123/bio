@@ -1,4 +1,5 @@
-"items":
+{
+  "items":
 [
 {"aadhar":"805306527252","dept":"Chemistry","bas":"Y"}
 ,{"aadhar":"628965771035","dept":"Chemistry","bas":"N"}
@@ -104,3 +105,4 @@
 ,{"aadhar":"781874099641","dept":"Physics","bas":"Y"}
 ,{"aadhar":"949450800956","dept":"Physics","bas":"Y"}
 ]
+}
